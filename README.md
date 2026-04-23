@@ -30,13 +30,17 @@ This project will focus on the following key questions:
 
 ## Data Sources
 
-The analysis will be based on publicly available financial data:
+The data for this project will be obtained from publicly available financial sources using Python-based financial APIs, specifically Yahoo Finance via the yfinance library.
 
-* **Bitcoin (BTC-USD)**
-* **S&P 500 Index (^GSPC)**
-* **Gold (GC=F or XAU/USD)**
+The dataset will include:
 
-Data will be collected using financial data APIs such as Yahoo Finance via the `yfinance` Python library.
+Bitcoin price data (BTC-USD)
+S&P 500 index data (^GSPC)
+Gold price data (GC=F or XAU/USD)
+
+The analysis will utilize historical daily price data spanning the period from January 1, 2020, to March 31, 2026. This time range is selected to capture multiple market conditions, including post-pandemic recovery, inflationary periods, and shifts in global economic sentiment.
+
+The estimated sample size is approximately 1,500–1,600 daily observations for each asset before preprocessing. After aligning the datasets by date and removing missing values, the final dataset is expected to contain approximately 1,400–1,500 observations.
 
 ---
 
