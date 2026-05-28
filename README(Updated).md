@@ -108,7 +108,7 @@ DSA210/
 │
 ├── DSA210_BTC_Correlation_Analysis.ipynb         # Exploratory Data Analysis notebook
 │   └── Comprehensive EDA with 15+ figures,
-│       statistical tests, and correlation analysis
+│       statistical tests and correlation analysis
 │
 ├── DSA210_BTC_ML_Analysis.ipynb                  # Machine Learning Analysis notebook
 │   └── 4 ML models with comparison, feature
