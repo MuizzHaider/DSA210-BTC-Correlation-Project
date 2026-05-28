@@ -1,8 +1,5 @@
 # DSA 210 Project - Analysis of Bitcoin's Relationship with Traditional Financial Assets
 
-
-**Author:** Muizz Haider
-
 ---
 
 ## 📌 Project Overview
