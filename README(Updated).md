@@ -194,7 +194,3 @@ jupyter notebook
 - S&P 500 Index: ^GSPC on Yahoo Finance
 - Gold Futures: GC=F on Yahoo Finance
 - scikit-learn documentation: https://scikit-learn.org/
-
----
-
-*This project was completed as part of DSA 210 — Introduction to Data Science at Sabancı University, Spring 2025-2026.*
